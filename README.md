@@ -1,4 +1,4 @@
-# INFO
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skynate22&thema=green)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skynate22&theme=green)](https://github.com/anuraghazra/github-readme-stats)
 
